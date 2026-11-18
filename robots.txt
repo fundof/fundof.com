@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://fundof.com/sitemap.xml
